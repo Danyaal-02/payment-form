@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Environment files
+# .env
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Build files
+build/
+dist/
+*.bundle.js
+*.bundle.js.map
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
