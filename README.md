@@ -1,8 +1,6 @@
-To achieve this, you would typically follow these steps:
-
 1. Clone the GitHub repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Danyaal-02/payment-form.git
    ```
 
 2. Navigate to the backend directory:
